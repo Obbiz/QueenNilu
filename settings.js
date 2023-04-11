@@ -7,12 +7,12 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
-global.ownername = "Janith sadanuwan" //ur owner name
+global.owner = ['50769905820'] //ur owner number
+global.ownername = "AHMAD 💞" //ur owner name
 
 //Bot Name 
-global.botname = 'ǫᴜᴇᴇɴ ɴɪʟᴜ' //ur bot name
-global.wm = "ǫᴜᴇᴇɴ ɴɪʟᴜ" //ur watermark
+global.botname = 'JUICE-MD' //ur bot name
+global.wm = "juice x ahmad" //ur watermark
 
 global.keyopenai = "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",
 //React Messages 
@@ -33,7 +33,7 @@ global.READ_MASSAGE = true
 global.VOICE_REPLY = true
 
 // Do you want show time on your bio use "true" want desable use "false"
-global.AUTO_BIO = false
+global.AUTO_BIO = true
 
 // Inbox massage block PM block
 global.INBOX_BLOCK = false
@@ -42,7 +42,7 @@ global.INBOX_BLOCK = false
 global.INBOX_BLOCK_MSG = 'blockedd'
 
 //Anti Bad word
-global.ANTI_BADWORD = 'true'
+global.ANTI_BADWORD = 'false'
 
 
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 QUEEN NILU ²⁰²³'
@@ -65,7 +65,7 @@ global.KICK_MSG = ' '
 
 //Links (URLS)
 global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
+global.socialm = "GitHub: Obbiz" //ur github or insta name
 global.linkz = "https://chat.whatsapp.com/" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/c/janithsadanuwan" //ur website to be displayed
 global.botscript = 'https://github.com/janithsadanuwan/QueenNilu' //script link
